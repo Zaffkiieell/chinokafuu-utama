@@ -2,8 +2,6 @@
 
 # 🌸 Welcome to Chinokafuu-Utama 🌸
 
-https://drive.google.com/file/d/1CI3HDVN20iLOgE1CHcanul26nOl4JlGX/view?usp=sharing
-
 [![GitHub stars](https://img.shields.io/github/stars/Zaffkiieell/chinokafuu-utama.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Zaffkiieell/chinokafuu-utama/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/Zaffkiieell/chinokafuu-utama.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Zaffkiieell/chinokafuu-utama/network/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
