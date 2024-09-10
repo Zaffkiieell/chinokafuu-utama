@@ -75,9 +75,9 @@ For in-depth information about Chinokafuu-Utama's features and API, visit our [D
 
 ## 🌐 Stay Connected
 
-- 📧 **Email**: kchinochan15@gmil.com
-- 🐦 **Twitter**: [@ChinokafuuUtama](https://twitter.com/zaffkiieell)
-- 💬 **Discord**: [Join our anime crypto community](https://discord.gg/chinokafuu-utama)
+- 📧 **Email**: kchinochan15@gmail.com
+- 🐦 **Twitter**: [@zaffkiieell](https://twitter.com/zaffkiieell)
+- 💬 **Discord**: [-]
 - 📝 **Issues**: [Report bugs or request features](https://github.com/Zaffkiieell/chinokafuu-utama/issues)
 
 ## 📜 License
